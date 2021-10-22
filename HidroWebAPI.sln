@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HidroWebAPI", "HidroWebAPI\HidroWebAPI.csproj", "{62717AEE-14A5-4552-A23B-01AA5E29D37F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HidroWebAPI.Aplicacao", "HidroWebAPI.Aplicacao\HidroWebAPI.Aplicacao.csproj", "{D323A32D-F70C-4881-B46D-B40F1E668FAF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HidroWebAPI.Dominio", "HidroWebAPI.Dominio\HidroWebAPI.Dominio.csproj", "{0D54586A-9793-4C8F-A7A5-F871F668348E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HidroWebAPI.Infraestrutura", "HidroWebAPI.Infraestrutura\HidroWebAPI.Infraestrutura.csproj", "{06EBD8FD-0FCF-4A61-9210-78FF07583792}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HidroWebAPI.Util", "HidroWebAPI.Util\HidroWebAPI.Util.csproj", "{96CF8930-9917-4F3A-A20E-CE591016F108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotinaHidro", "RotinaHidro\RotinaHidro.csproj", "{F55040EF-1520-4525-903D-D3E3A1D0183E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62717AEE-14A5-4552-A23B-01AA5E29D37F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62717AEE-14A5-4552-A23B-01AA5E29D37F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62717AEE-14A5-4552-A23B-01AA5E29D37F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62717AEE-14A5-4552-A23B-01AA5E29D37F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D323A32D-F70C-4881-B46D-B40F1E668FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D323A32D-F70C-4881-B46D-B40F1E668FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D323A32D-F70C-4881-B46D-B40F1E668FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D323A32D-F70C-4881-B46D-B40F1E668FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D54586A-9793-4C8F-A7A5-F871F668348E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D54586A-9793-4C8F-A7A5-F871F668348E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D54586A-9793-4C8F-A7A5-F871F668348E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D54586A-9793-4C8F-A7A5-F871F668348E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06EBD8FD-0FCF-4A61-9210-78FF07583792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EBD8FD-0FCF-4A61-9210-78FF07583792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EBD8FD-0FCF-4A61-9210-78FF07583792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EBD8FD-0FCF-4A61-9210-78FF07583792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96CF8930-9917-4F3A-A20E-CE591016F108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96CF8930-9917-4F3A-A20E-CE591016F108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96CF8930-9917-4F3A-A20E-CE591016F108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96CF8930-9917-4F3A-A20E-CE591016F108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55040EF-1520-4525-903D-D3E3A1D0183E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55040EF-1520-4525-903D-D3E3A1D0183E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55040EF-1520-4525-903D-D3E3A1D0183E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55040EF-1520-4525-903D-D3E3A1D0183E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC9E1DF-C61C-4DC4-A552-B33CB6186344}
+	EndGlobalSection
+EndGlobal
